@@ -1,0 +1,42 @@
+.LoginInput{
+    width: 100%;
+    padding: 8px 20px;
+    margin: 5px 0;
+    border: 2px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box
+  }
+
+.loginContainer{
+  
+  background-color: rgb(243, 240, 240);
+  width: 275px;
+  border: 10px;
+  padding: 100px;
+  display: block;
+  
+    
+} 
+.formData{
+  display:inline-block;
+}
+
+.h1Login{
+    text-align: center;
+}
+
+.LoginButton{
+
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+.forgetPass{
+  float: right;
+  
+}
